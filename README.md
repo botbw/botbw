@@ -5,6 +5,6 @@
 
 I'm learning MLSys-related topics, including distributed training frameworks, compilers, and GPU kernels.
 
-I enjoy open sourcing and I'm contributing to [ColossalAI](https://github.com/hpcaitech/ColossalAI)[![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)](https://github.com/hpcaitech/ColossalAI/stargazers) and [EasyDist](https://github.com/alibaba/easydist)![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/easydist).
+I enjoy open sourcing and have been contributing to several projects. Check them out below!
 
 Get to know me through my code!
